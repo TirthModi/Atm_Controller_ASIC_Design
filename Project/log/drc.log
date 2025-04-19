@@ -1,0 +1,32 @@
+Qflow DRC logfile created on Wed 16 Apr 2025 02:38:30 AM PDT
+magic -dnull -noconsole  /home/robot/Desktop/ASIC/Project/layout/run_drc_atm_fsm.tcl
+
+Magic 8.2 revision 157 - Compiled on Thu, 07 Nov 2019 21:14:45 +0100.
+Starting magic under Tcl interpreter
+Using the terminal as the console.
+Using NULL graphics device.
+Processing system .magicrc file
+Input style lambda=0.20(p): scaleFactor=20, multiplier=1
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+Contact size value ignored (using GDS generation rules).
+4 Magic internal units = 1 Lambda
+Loading "/home/robot/Desktop/ASIC/Project/layout/run_drc_atm_fsm.tcl" from command line.
+Reading LEF data from file /usr/local/share/qflow/tech/osu035/osu035_stdcells.lef.
+This action cannot be undone.
+LEF read, Line 16 (Message): Unknown keyword "OBS" in LEF file; ignoring.
+LEF read, Line 17 (Message): Unknown keyword "PIN" in LEF file; ignoring.
+LEF read, Line 207 (Message): Defines site corner (ignored)
+LEF read, Line 213 (Message): Defines site IO (ignored)
+LEF read, Line 219 (Message): Defines site core (ignored)
+Moving label "CLK" from metal1 to m2contact in cell DFFNEGX1.
+Moving label "CLK" from metal1 to m2contact in cell DFFNEGX1.
+Moving label "A" from metal1 to m2contact in cell XNOR2X1.
+LEF read: Processed 3179 lines.
+Scaled magic input cell atm_fsm geometry by factor of 2
+Processing timestamp mismatches: FILL, NAND3X1, OAI21X1, NAND2X1, DFFSR, CLKBUF1, NOR2X1, BUFX2, AOI21X1, INVX8, AND2X2, NOR3X1, INVX1, OR2X2, BUFX4, INVX2, XNOR2X1, OAI22X1, AOI22X1, XOR2X1.
+drc = 0
+DRC checking script ended on Wed 16 Apr 2025 02:38:34 AM PDT

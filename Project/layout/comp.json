@@ -1,0 +1,461 @@
+[
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ], [
+        "A",
+        "B",
+        "C",
+        "D",
+        "gnd",
+        "Y",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "pins": [
+      [
+        "Q",
+        "CLK",
+        "R",
+        "S",
+        "D",
+        "gnd",
+        "vdd"
+      ], [
+        "Q",
+        "CLK",
+        "R",
+        "S",
+        "D",
+        "gnd",
+        "vdd"
+      ]
+   ]
+  },
+  {
+   "name": [
+      "atm_fsm",
+      "atm_fsm"
+   ],
+   "devices": [
+       [
+         ["NOR2X1", 43],
+         ["BUFX2", 7],
+         ["NAND3X1", 25],
+         ["OAI21X1", 59],
+         ["OAI22X1", 2],
+         ["NAND2X1", 28],
+         ["DFFSR", 39],
+         ["BUFX4", 20],
+         ["XOR2X1", 1],
+         ["INVX2", 9],
+         ["OR2X2", 3],
+         ["INVX1", 22],
+         ["AOI21X1", 6],
+         ["NOR3X1", 3],
+         ["AND2X2", 4],
+         ["AOI22X1", 3],
+         ["XNOR2X1", 3],
+         ["CLKBUF1", 6],
+         ["INVX8", 3 ]
+       ], [
+         ["NOR2X1", 43 ],
+         ["BUFX2", 7 ],
+         ["NAND3X1", 25 ],
+         ["OAI21X1", 59 ],
+         ["OAI22X1", 2 ],
+         ["NAND2X1", 28 ],
+         ["DFFSR", 39 ],
+         ["BUFX4", 20 ],
+         ["XOR2X1", 1 ],
+         ["INVX2", 9 ],
+         ["OR2X2", 3 ],
+         ["INVX1", 22 ],
+         ["AOI21X1", 6 ],
+         ["NOR3X1", 3 ],
+         ["AND2X2", 4 ],
+         ["AOI22X1", 3 ],
+         ["XNOR2X1", 3 ],
+         ["CLKBUF1", 6 ],
+         ["INVX8", 3 ]
+       ]
+   ],
+   "nets": [
+    298,
+    298
+   ],
+   "badnets": [
+   ],
+   "badelements": [
+   ],
+   "pins": [
+      [
+        "correct_pin",
+        "exit",
+        "clk",
+        "print_balance",
+        "balance_check",
+        "insert_card",
+        "reset",
+        "auth_success",
+        "state[0]",
+        "state[1]",
+        "freeze",
+        "state[2]",
+        "amount_entered",
+        "cash_eject",
+        "withdraw",
+        "vdd",
+        "gnd",
+        "pin_input[0]",
+        "pin_input[1]",
+        "pin_input[2]",
+        "pin_input[3]",
+        "pin_input[4]",
+        "pin_input[5]",
+        "pin_input[6]",
+        "pin_input[7]",
+        "pin_input[8]",
+        "pin_input[9]",
+        "pin_input[10]",
+        "pin_input[11]",
+        "pin_input[12]",
+        "pin_input[13]",
+        "pin_input[14]",
+        "pin_input[15]"
+      ], [
+        "correct_pin",
+        "exit",
+        "clk",
+        "print_balance",
+        "balance_check",
+        "insert_card",
+        "reset",
+        "auth_success",
+        "state[0]",
+        "state[1]",
+        "freeze",
+        "state[2]",
+        "amount_entered",
+        "cash_eject",
+        "withdraw",
+        "vdd",
+        "gnd",
+        "pin_input[0]",
+        "pin_input[1]",
+        "pin_input[2]",
+        "pin_input[3]",
+        "pin_input[4]",
+        "pin_input[5]",
+        "pin_input[6]",
+        "pin_input[7]",
+        "pin_input[8]",
+        "pin_input[9]",
+        "pin_input[10]",
+        "pin_input[11]",
+        "pin_input[12]",
+        "pin_input[13]",
+        "pin_input[14]",
+        "pin_input[15]"
+      ]
+   ]
+  }
+]
